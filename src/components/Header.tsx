@@ -38,7 +38,7 @@ export default function Header() {
           <div className="hidden items-center gap-3 md:flex">
             <ThemeToggle />
             <a
-                href="/downloads/canalflix.apk"
+              href="https://github.com/twocoderz/canalflix.app/releases/latest/download/canalflix.apk"
               download
               className="rounded-full bg-(--primary) px-6 py-4 text-lg font-medium text-black transition-opacity hover:opacity-90"
             >
@@ -78,7 +78,7 @@ export default function Header() {
           <div className="mt-4 flex items-center justify-between">
             <ThemeToggle />
             <a
-                href="/downloads/canalflix.apk"
+              href="https://github.com/twocoderz/canalflix.app/releases/latest/download/canalflix.apk"
               download
               className="rounded-full bg-(--primary) px-6 py-4 text-xl font-medium text-black"
             >
