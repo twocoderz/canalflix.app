@@ -12,8 +12,9 @@ export default function ChannelsPage() {
             Toutes les chaînes
           </h1>
           <p className="mt-6 text-lg leading-relaxed text-(--text-muted)">
-            Retrouvez vos chaînes préférées et explorez une sélection pensée
-            pour les amateurs d&apos;animation et de télévision en direct.
+            Les meilleures chaînes françaises en streaming HD gratuit. W9,
+            Canal+, TMC, BFM et 14 chaînes en direct, sans abonnement et sans
+            pub agressive.
           </p>
         </header>
 

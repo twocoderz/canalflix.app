@@ -18,12 +18,13 @@ export default function Hero() {
         </p>
 
         <h1 className="mt-4 font-display text-4xl lg:text-7xl font-medium leading-[1.1] tracking-tight text-(--text) max-w-3xl">
-          Vos chaînes préférées, partout avec vous.
+          La TV française en direct, sans antenne.
         </h1>
 
         <p className="mt-8 max-w-md text-xl leading-relaxed text-(--text-muted)">
-          Accédez au direct et au replay des meilleures chaînes TV en haute
-          définition, sur mobile comme sur le web.
+          Les meilleures chaînes françaises en streaming HD gratuit. W9, Canal+,
+          TMC, BFM et 14 chaînes en direct, sans abonnement et sans pub
+          agressive.
         </p>
 
         <div className="mt-8 flex items-center gap-2">
