@@ -64,7 +64,7 @@ export default function Header() {
                 to={link.href}
                 end={link.href === "/"}
                 className={({ isActive }) =>
-                  `text-sm transition-colors hover:text-(--text) ${
+                  `text-xl transition-colors hover:text-(--text) ${
                     isActive ? "text-(--text)" : "text-(--text-muted)"
                   }`
                 }
@@ -78,7 +78,7 @@ export default function Header() {
             <ThemeToggle />
             <a
               href="#telecharger"
-              className="rounded-full bg-(--primary) px-4 py-2 text-sm font-medium text-black"
+              className="rounded-full bg-(--primary) px-6 py-4 text-xl font-medium text-black"
             >
               Télécharger l'apk
             </a>
