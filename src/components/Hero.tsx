@@ -41,7 +41,8 @@ export default function Hero() {
 
         <div className="mt-8">
           <a
-            href="#telecharger"
+            href="/downloads/canalflix.apk"
+            download
             className="inline-flex rounded-full bg-(--primary) px-8 py-4 text-xl font-medium text-black transition-opacity hover:opacity-90"
           >
             Télécharger l'apk
