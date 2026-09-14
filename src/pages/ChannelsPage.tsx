@@ -11,7 +11,7 @@ export default function ChannelsPage() {
           <h1 className="mt-4 font-display text-4xl font-medium leading-tight tracking-tight text-(--text) sm:text-6xl">
             Toutes les chaînes
           </h1>
-          <p className="mt-6 text-lg leading-relaxed text-(--text-muted)">
+          <p className="mt-6 text-xl leading-relaxed text-(--text-muted)">
             Les meilleures chaînes françaises en streaming HD gratuit. W9,
             Canal+, TMC, BFM et 14 chaînes en direct, sans abonnement et sans
             pub agressive.
