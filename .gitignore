@@ -26,3 +26,5 @@ dist-ssr
 
 # APK - hosted on GitHub Releases instead
 public/downloads/*
+.vercel
+.env*
